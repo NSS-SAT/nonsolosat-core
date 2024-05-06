@@ -1,0 +1,8 @@
+SRCDATE = "20221130"
+
+require hd-recovery.inc
+
+SRC_URI[md5sum] = "24f2aba447c8c2b50f76f6d70c1d559a"
+SRC_URI[sha256sum] = "a30a8298eb5322a43a3b0d272d5aa6571175c0b82b22b67a93e8df83522c39a8"
+
+COMPATIBLE_MACHINE = "hd61"

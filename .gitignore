@@ -1,0 +1,12 @@
+/build/
+/sources
+/meta-local/
+!/meta-local/recipes-local/my-image.bb
+
+/meta-openembedded/
+/openembedded-core/
+
+*.swp
+site.conf
+bblayers.conf
+*~

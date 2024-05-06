@@ -1,0 +1,8 @@
+SRCDATE = "20221130"
+
+require maxytec-recovery.inc
+
+SRC_URI[md5sum] = "72148557a119e77a6c1951d667ee1d58"
+SRC_URI[sha256sum] = "62665700f336d836af6151f19122036f5b78678cd2a0671770a38de4ed64c997"
+
+COMPATIBLE_MACHINE = "multibox"
