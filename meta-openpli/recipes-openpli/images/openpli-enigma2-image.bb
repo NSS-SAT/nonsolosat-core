@@ -95,4 +95,4 @@ IMAGE_INSTALL += " \
 	${@bb.utils.contains('OPENPLI_FEATURES', 'dvd', 'cdtextinfo', '', d)} \
 	"
 
-export IMAGE_BASENAME = "openpli-enigma2"
+export IMAGE_BASENAME = "nonsolosat-enigma2"
