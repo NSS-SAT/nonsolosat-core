@@ -59,6 +59,8 @@ IMAGE_INSTALL = "\
 	${PYTHON_PN}-levenshtein \
 	${PYTHON_PN}-six \
 	${PYTHON_PN}-cryptography \
+        ${PYTHON_PN}-pycurl \
+	${PYTHON_PN}-compression \
 	uchardet \
 	unrar \
         curl \
