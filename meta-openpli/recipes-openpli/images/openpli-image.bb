@@ -62,8 +62,8 @@ IMAGE_INSTALL = "\
         ${PYTHON_PN}-pycurl \
 	${PYTHON_PN}-compression \
         ${PYTHON_PN}-dateutil \
+        ${PYTHON_PN}-rarfile \
 	uchardet \
-	unrar \
         curl \
         ffmpeg \
         openvpn \
