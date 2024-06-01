@@ -61,6 +61,7 @@ IMAGE_INSTALL = "\
 	${PYTHON_PN}-cryptography \
         ${PYTHON_PN}-pycurl \
 	${PYTHON_PN}-compression \
+        ${PYTHON_PN}-dateutil \
 	uchardet \
 	unrar \
         curl \
